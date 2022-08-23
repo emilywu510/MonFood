@@ -1,2 +1,2 @@
-# monfood_maven
-monfood_maven project
+# monfood
+monfood project
